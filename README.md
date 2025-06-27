@@ -16,11 +16,13 @@ Soy una persona autodidacta, organizada y comprometida con resolver problemas re
 Aplicación móvil para gestionar tareas personales y recibir recordatorios inteligentes.
 - **Tecnologías:** React Native, SQLite, Figma
 - 🔗 [Ver código](https://github.com/BrianRamirezLuna/SmartAgenda)
+![Vista previa de SmartAgenda](./imagenes/SmartAgendaPreview.jpeg)
 
 ### 💬 ForoLince
-Foro web para discusión entre estudiantes, con autenticación y manejo de publicaciones.
+Página web tipo CRUD para administración escolar (profesores, alumnos, materias y carreras), con funciones de asignación y mantenimiento de registros.
 - **Tecnologías:** Express.js, JavaScript, HTML5, CSS, MySQL, Figma
 - 🔗 [Ver código](https://github.com/BrianRamirezLuna/ForoLince)
+![Vista previa de SmartAgenda](./imagenes/ForoLincePreview.jpeg)
 
 ---
 
